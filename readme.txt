@@ -1,1 +1,1 @@
-project is hosted at : https://umm-e-ammara.github.io/weatherforecast/
+project is hosted at : https://umm-e-ammara.github.io/weatherforecas
